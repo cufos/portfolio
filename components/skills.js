@@ -29,22 +29,21 @@ export default function Skills() {
             <li>CSS</li>
             <li>JAVASCRIPT</li>
             <li>REACT</li>
-            <li>TYPESCRIPT</li>
             <li>NEXT JS</li>
             <li>GATSBY JS</li>
             <li>REDUX</li>
             <li>GIT</li>
+            <li>GRAPHQL</li>
           </ul>
         </div>
         <div className={styles.skills__frontend}>
           <p>
-            Even if i'm not a back-end developer, i've worked with some of these
-            tecnologies, creating some basics rest api and crud tasks
+            I've worked with these tecnologies, creating some basics rest api
+            and crud tasks
           </p>
           <ul>
             <li>NODE JS</li>
             <li>EXPRESS JS</li>
-            <li>GRAPHQL</li>
             <li>MONGO DB</li>
             <li>POSTGRES SQL</li>
           </ul>

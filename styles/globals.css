@@ -3,6 +3,9 @@
   --green: #07dac0;
   --grey: #d6dfe0;
   --pink: #ce2380;
+  --dark-shadow: .2rem .2rem .5rem var(--black);
+  --radius: .5rem;
+  --transition: .3s ease;
 }
 
 body {
