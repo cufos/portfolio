@@ -7,7 +7,7 @@ export default [
     image: "bienes-raices.png",
     stack: ["HTML", "CSS"],
     git: "https://github.com/cufos/bienes-raices",
-    link: "https://tender-swartz-5f6df6.netlify.app/",
+    link: "https://bienesraices-c.netlify.app/",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export default [
     image: "netflix.png",
     stack: ["REACT", "FIIREBASE", "STYLED-COMPONENTS"],
     git: "https://github.com/cufos/netflix-clone",
-    link: "https://optimistic-keller-fdac69.netlify.app/",
+    link: "https://netfli-clone-r.netlify.app/",
   },
   {
     id: 3,

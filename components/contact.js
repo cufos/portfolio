@@ -15,6 +15,7 @@ export default function Contact() {
           target="_blank"
           rel="noopener noreferer"
           className={styles.contact__button}
+          href='my-cv.pdf'
         >
           Download CV
         </a>
