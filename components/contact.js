@@ -12,10 +12,9 @@ export default function Contact() {
           Contact me
         </a>
         <a
-          target="_blank"
-          rel="noopener noreferer"
           className={styles.contact__button}
-          href='my-cv.pdf'
+          href='cv.pdf'
+          download
         >
           Download CV
         </a>
